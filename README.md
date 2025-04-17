@@ -17,15 +17,6 @@ I’m always open to learning and collaborating with like-minded individuals to 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HCanosa&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HCanosa/HCanosa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HCanosa/HCanosa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HCanosa/HCanosa/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
