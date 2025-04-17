@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+💻 Systems Development Student at FATEC Antônio Russo
+I began my journey in the tech industry after recognizing a great opportunity, which led me to mentorship experiences with Volkswagen. I’m driven by the potential of software development, a field with high demand and excellent career prospects.
+
+Currently, I’m studying Systems Analysis and Development at FATEC Antônio Russo, after completing my technical education at ETEC Jorge Street. In parallel with my studies, I have been working for over three years at a self-employed business in digital marketing, developing strategies to help brands thrive in the online environment.
+
+I’m always open to learning and collaborating with like-minded individuals to bring together technology, innovation, and business for impactful results.
+
 <h2 align="left">Stats</h2>
 
 ###
