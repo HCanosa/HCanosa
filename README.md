@@ -14,7 +14,7 @@ I’m always open to learning and collaborating with like-minded individuals to 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HCanosa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img height="150" src="https://i.pinimg.com/originals/77/85/2e/77852e04650f65362d29552c07e58715.gif"  />
-  <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=HCanosa&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img height="210" src="https://github-readme-activity-graph.vercel.app/graph?username=HCanosa&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
 ###
 </div>
